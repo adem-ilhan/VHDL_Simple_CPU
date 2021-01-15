@@ -1,7 +1,7 @@
 
 # Schematic Design
 
-add png
+![alt text](https://github.com/mellivoro/VHDL_Simple_CPU/blob/main/img/cpu.png?raw=true)
 
 # Examples
 
